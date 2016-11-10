@@ -1,0 +1,23 @@
+{
+  "name": "docker-express",
+  "version": "1.0.0",
+  "description": "A simple node-express app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemyDanger/docker-express.git"
+  },
+  "author": "Joachim Hahn <joachim.hahn@1und1.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemyDanger/docker-express/issues"
+  },
+  "homepage": "https://github.com/LemyDanger/docker-express#readme",
+  "dependencies": {
+    "config": "^1.24.0",
+    "express": "^4.14.0"
+  }
+}
